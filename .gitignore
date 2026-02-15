@@ -1,0 +1,10 @@
+# Visual Studio files
+.vs/
+out/
+build/
+*.exe
+*.obj
+*.pdb
+*.user
+*.log
+*.db
