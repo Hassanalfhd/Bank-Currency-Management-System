@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Banck System", "Banck System\Banck System.vcxproj", "{0B2A7BF2-F90E-4FB1-81C7-6987DDB5016D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2A7BF2-F90E-4FB1-81C7-6987DDB5016D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B2A7BF2-F90E-4FB1-81C7-6987DDB5016D}.Debug|Win32.Build.0 = Debug|Win32
+		{0B2A7BF2-F90E-4FB1-81C7-6987DDB5016D}.Release|Win32.ActiveCfg = Release|Win32
+		{0B2A7BF2-F90E-4FB1-81C7-6987DDB5016D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
